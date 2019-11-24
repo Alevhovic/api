@@ -15,6 +15,5 @@ https://www.getpostman.com/downloads/
 
 # Screenshots
 
-https://github.com/Alevhovic/api/blob/master/Screenshot_1.PNG
-https://github.com/Alevhovic/api/blob/master/Screenshot_2.PNG
-https://github.com/Alevhovic/api/blob/master/Screenshot_3.PNG
+Screenshot_1.PNG
+Screenshot_2.PNG
