@@ -15,5 +15,9 @@ https://www.getpostman.com/downloads/
 
 # Screenshots
 
-Screenshot_1.PNG
-Screenshot_2.PNG
+Interface de l'API sur POSTMAN.
+![alt text](https://raw.githubusercontent.com/Alevhovic/api/master/Screenshot_1.PNG)
+
+![alt text](https://raw.githubusercontent.com/Alevhovic/api/master/Screenshot_2.PNG)
+
+![alt text](https://raw.githubusercontent.com/Alevhovic/api/master/Screenshot_3.PNG)
