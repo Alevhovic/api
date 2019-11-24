@@ -9,7 +9,16 @@ My first API write with PHP !
 - api/employees/
 - api/reset/
 
-# Try with Postman !
+# HTTP Method
+
+- GET  // Try it => http://lamirand-cyril.fr/api/clients/?name=Team Dev
+- POST // If you doesn't use POSTMAN (SCREENSHOT 3) you have to build an html form.
+- PUT  // You have to use POSTMAN.
+- DEL  // You have to use POSTMAN.
+
+The "DEL" method also DELETE the projects created by this clients.
+
+# Test my api with Postman !
 
 https://www.getpostman.com/downloads/
 
